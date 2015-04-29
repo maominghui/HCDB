@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F15222E3-981C-4061-B263-7477177B1E3E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HCApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>bfc38342-2e3c-40bf-a92f-dd2bbf862eab</key>
+		<string>svn://192.168.80.232/HCApp</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>hcdbapp/HCApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>bfc38342-2e3c-40bf-a92f-dd2bbf862eab</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>bfc38342-2e3c-40bf-a92f-dd2bbf862eab</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>bfc38342-2e3c-40bf-a92f-dd2bbf862eab</string>
+			<key>IDESourceControlWCCName</key>
+			<string>code</string>
+		</dict>
+	</array>
+</dict>
+</plist>
